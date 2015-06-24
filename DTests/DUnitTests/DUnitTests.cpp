@@ -1,8 +1,8 @@
 #include "stdafx.h"
 #include "CppUnitTest.h"
 
-#include "..\DCATests\DTests.h"
-#pragma comment(lib, "../Debug/DCATests.lib")
+#include "..\DTests\DTests.h"
+#pragma comment(lib, "../Debug/DTests.lib")
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 
